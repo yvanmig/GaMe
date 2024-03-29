@@ -1,5 +1,8 @@
 import Vuex from 'vuex'
-import * as db from '../firebase'
+
+// Testing purposes, replace with "firebase"
+import * as db from '../firebase_local'
+
 import firebase from "firebase";
 
 
